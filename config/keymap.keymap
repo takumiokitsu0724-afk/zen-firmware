@@ -22,7 +22,7 @@
             bindings = <
 &kp TAB    &kp Q         &kp W         &kp E       &kp R      &kp T      &kp Y      &kp U         &kp I  &lt 6 O         &lt 4 P         &lt 4 BACKSPACE
 &kp GRAVE  &kp A         &kp S         &kp D       &kp F      &kp G      &kp H      &kp J         &kp K  &kp L           &kp MINUS       &kp ENTER
-&kp LSHFT  &kp Z         &kp X         &kp C       &kp V      &kp B      &kp SPACE  &kp UP_ARROW  &kp N  &kp M           &kp COMMA       &kp DOT          &kp UP_ARROW  &kp QUESTION
+&kp LSHFT  &kp Z         &kp X         &kp C       &kp V      &kp B      &kp SPACE  &kp UP_ARROW  &kp N  &kp M           &kp COMMA       &kp DOT          &kp UP_ARROW  &kp SLASH
 &kp LCTRL  &kp LEFT_GUI  &kp LEFT_ALT  &kp ESCAPE  &kp ENTER  &kp SPACE  &mo 2      &kp ENTER     &mo 3  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW
             >;
         };
